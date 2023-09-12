@@ -1,0 +1,12 @@
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.frmCadastrar.resources
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.frmprincipal.resources
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+C:\Users\Pichau\source\repos\ProjetoAcademia\ProjetoAcademia\obj\Debug\ProjetoAcademia.frmPesquisar.resources
